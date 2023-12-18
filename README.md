@@ -31,7 +31,7 @@ Welcome to the Netflix Website Homepage project! This responsive website replica
 
 ## 🌐 Live Demo
 
-Experience the Netflix Website Homepage replica with our live demo [here](#).
+Experience the Netflix Website Homepage replica with our live demo - https://chula805.github.io/Netflix-HomePage/
 
 ## 📬 Feedback
 
